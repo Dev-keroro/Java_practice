@@ -6,7 +6,7 @@ class C{
 	void m() {
 		int v = 20;
 		System.out.println(v);			//지역변수
-		System.out.println(this.v);		//인스턴스 전역변수
+		System.out.println(this.v);		//c1 인스턴스 전역변수
 	}
 }
 
